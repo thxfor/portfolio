@@ -1,0 +1,7 @@
+<a href="https://thxfor.github.io/My-project/" class="fs-2 fw-semibold fst-italic text-black link-warning">Outlast</a>
+<img src="Outlast.jpeg" style="height: 3000px;">
+<div class="col-65 ms-10 border border-2" style="height: 2000px;">
+<div class="border col-4 ms-5" style="height: 3000px;">
+              Самый долгий, проработанный, и самый лучший сайт на данный момент, сверстанный мною. На том уроке мы должны были сделать сайт, про любую игру/фильм/аниме и т.д. Изначально я выбрал сделать сайт по игре "Dead By Daylight", но позже я изменил свой выбор. Данный сайт я подсмотрел на официальном сайте "Red Barrels", но и добавил много своего. Здесь я написал про историю игры, трейлеры, скриншоты,  саундтреки и про персонажей. 
+            </div>
+</div>
